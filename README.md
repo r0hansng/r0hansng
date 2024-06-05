@@ -1,4 +1,4 @@
-[💫 About Me](doc:linking-to-pages#About-Me)                                                                                                                                                                                                                                                                  
+[💫 About Me](#About-Me)                                                                                                                                                                                                                                                                  
 
 🔭 I am currently working on:
                                                                            
