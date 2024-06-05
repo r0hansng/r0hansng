@@ -1,14 +1,14 @@
 🔭 I am currently working on:
-
-🌱 I’m currently learning:
+                                                                           
+🌱 I’m currently learning:                                                                                                                                                                                                                                                        
 CSE (AI & ML) at Newton School of Technology.
 
 👯‍♂️ I’m looking to collaborate on:
 
 💬 Ask me about: 
 
-⚡ Fun fact:
-I love playing basketball & video games.
+⚡ Fun fact:                                                                                                                                                                                                                                                                      
+I am into basketball & video games.
   
 
 <!---
