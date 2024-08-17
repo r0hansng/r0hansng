@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on:<br><br>🌱 I’m currently learning:<br>CSE (AI & ML) at Newton School of Technology.<br><br>👯‍♂️ I’m looking to collaborate on:<br><br>💬 Ask me about:<br><br>⚡ Fun fact:<br>I am into basketball & video games.
+🔭 I am currently working on:<br><br>🌱 I’m currently pursuing CS & AI @Newton School of Technology.<br><br>👯‍♂️ I’m looking to collaborate on:<br><br>💬 Ask me about:<br><br>⚡ Fun fact:<br>I am into basketball & video games.
 
 
 ## 🌐 Socials:
