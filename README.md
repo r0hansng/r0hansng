@@ -1,16 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Improving my skills in WebDev and Python<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Python and Web-Development<br><br>⚡ Fun fact:<br>I love playing guitar.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moya/)]( https://www.linkedin.com/in/daniel-moya/)
+[![Gmail Badge](https://img.shields.io/badge/-danielmoya.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmoya.dev@gmail.com)](mailto:danielmoya.dev@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-702963?style=flat-square&logo=appveyor&logoColor=white&link=https://moyadaniel.com/)](https://moyadaniel.com/)
+[![X Badge](https://img.shields.io/badge/-Daniel_Moya-000000?style=flat-square&logo=x&logoColor=white&link=[https://moyadaniel.com/](https://x.com/dev_moya))](https://moyadaniel.com/)
 
+###About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r0hansng/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohansng/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25406211) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/playg0d_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/r0hansng) 
-
-# 💻 Tech Stack:
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
+Student, with 4 years of experience in product design, currently learning how to code @Newton School of Technology with a speical focus on competitive programming and web-development.
 
 📫 You can reach me on:
 - Email: rohan.singh.en@gmail.com
-- Linkedin: 
-- X: 
-- Wesbite: 
+- Linkedin: https://www.linkedin.com/in/rohansng/
+- X: https://x.com/r0hansng
+- Wesbite:
+
+###Programming Languages
+* Python
+* C++
+* Java
+* Javascript
