@@ -1,4 +1,4 @@
-![banner4](https://github.com/r0hansng/r0hansng/blob/main/bg-main-dark-1440w.jpg)
+![banner4](https://github.com/r0hansng/r0hansng/blob/main/banner.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frohansng%2F)](https://www.linkedin.com/in/rohansng/)
 [![Gmail Badge](https://img.shields.io/badge/-rohan.singh.en@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohan.singh.en@gmail.com)](mailto:rohan.singh.en@gmail.com)
