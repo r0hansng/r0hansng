@@ -1,8 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r0hansng/)]( https://www.linkedin.com/in/r0hansng/)
 [![Gmail Badge](https://img.shields.io/badge/-danielmoya.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohan.singh.en@gmail.com)](mailto:rohan.singh.en@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-702963?style=flat-square&logo=appveyor&logoColor=white&link=https://moyadaniel.com/)](https://moyadaniel.com/)
-[![X Badge][(https://img.shields.io/badge/-Daniel_Moya-000000?style=flat-square&logo=x&logoColor=white&link=[https://moyadaniel.com/](https://x.com/r0hansng))](https://moyadaniel.com/)](https://img.shields.io/badge/Rohan%20Singh-%23000000?style=flat-square&logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2Fr0hansng
-)
+[![X Badge](https://img.shields.io/badge/Rohan%20Singh-%23000000?style=flat-square&logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2Fr0hansng)]
 
 ### About Me
 
