@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-702963?style=flat-square&logo=appveyor&logoColor=white&link=https://moyadaniel.com/)](https://moyadaniel.com/)
 [![X Badge](https://img.shields.io/badge/-Daniel_Moya-000000?style=flat-square&logo=x&logoColor=white&link=[https://moyadaniel.com/](https://x.com/dev_moya))](https://moyadaniel.com/)
 
-###About Me
+### About Me
 
 Student, with 4 years of experience in product design, currently learning how to code @Newton School of Technology with a speical focus on competitive programming and web-development.
 
@@ -13,7 +13,7 @@ Student, with 4 years of experience in product design, currently learning how to
 - X: https://x.com/r0hansng
 - Wesbite:
 
-###Programming Languages
+### Programming Languages
 * Python
 * C++
 * Java
