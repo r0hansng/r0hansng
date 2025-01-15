@@ -7,7 +7,7 @@
 
 ### About Me
 
-Student, with 4 years of experience in product design, currently learning how to code @Newton School of Technology with a speical focus on competitive programming and web-development.
+Student, with 2 years of experience in product design, currently learning how to code @Newton School of Technology with a speical focus on competitive programming and web-development.
 
 📫 You can reach me on:
 - Email: rohan.singh.en@gmail.com
