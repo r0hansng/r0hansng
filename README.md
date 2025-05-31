@@ -20,4 +20,4 @@ Student, with 2 years of experience in product design, currently learning how to
 * C++
 * HTML/CSS
 * Javascript
-* MERN Stack
+* MERN
