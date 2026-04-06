@@ -50,6 +50,8 @@ Full-stack developer specializing in modern web technologies (MERN, Next.js) and
 ### System Design & Architecture
 ![UML](https://img.shields.io/badge/-UML%20Diagrams-FF6C37?style=flat-square&color=%23FF6C37&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-4285F4?style=flat-square&color=%234285F4&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-9C27B0?style=flat-square&color=%239C27B0&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-FF5722?style=flat-square&color=%23FF5722&logoColor=white)
 
 ### Data Visualization & Analytics
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
