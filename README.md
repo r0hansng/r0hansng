@@ -1,12 +1,6 @@
-![banner4](https://github.com/r0hansng/r0hansng/blob/main/banner.png)
-
-<div align="center">
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohansng/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohan.singh.en@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-702962?style=for-the-badge&logo=vercel&logoColor=white)](https://rohan-singh.vercel.app/)
-
-</div>
 
 ---
 
