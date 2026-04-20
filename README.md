@@ -4,19 +4,29 @@
 
 ---
 
-## 👋 About Me
+## 👨🏻‍💻 A Little Bit About Me and My Interests
 
-Full-stack developer specializing in modern web technologies (MERN, Next.js) and data science applications. Demonstrate strong grasp of data structures & algorithms with hands-on experience in building scalable applications. Currently pursuing B. Tech in Computer Science & AI with a Finance minor, enabling unique perspective on fintech and data-driven product development.
-
-**Key Focus Areas:** Web Development | Data Science
-
----
-
-## 🎓 Education
-
-**B. Tech in Computer Science & Artificial Intelligence** (Junior Year)
-- Minor: Finance
-- Strong foundation in DSA, machine learning, and software engineering
+```yaml
+name: Rohan Singh
+role: Full-stack developer
+education:
+  - B.Tech in Computer Science & AI
+  - Minor in Finance
+specialization:
+  - MERN
+  - Next.js
+  - Data science applications
+strengths:
+  - Building scalable applications
+  - Infrastructure
+  - Product thinking
+focus_areas:
+  - Web Development
+  - Data Science
+interests:
+  - Fintech
+  - Data-driven product development
+```
 
 ---
 
@@ -63,17 +73,6 @@ Full-stack developer specializing in modern web technologies (MERN, Next.js) and
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💡 Core Competencies
-
-- **Web Development:** Full-stack MERN development with TypeScript, Next.js applications, responsive design
-- **System Design:** UML diagrams, entity-relationship modeling, scalable architecture patterns
-- **Database Management:** SQL optimization (PostgreSQL, MySQL), schema design, data modeling
-- **Machine Learning:** Deep learning with TensorFlow, numerical computing with NumPy
-- **Data Structures & Algorithms:** Strong DSA fundamentals for scalable solutions
-- **Version Control:** Git workflows, collaborative development
 
 ---
 
