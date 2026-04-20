@@ -8,24 +8,33 @@
 
 ```yaml
 name: Rohan Singh
-role: Full-stack developer
+located_in: Open to relocation
+current_job: Full Stack Developer
 education:
   - B.Tech in Computer Science & AI
   - Minor in Finance
-specialization:
+company: Open to opportunities
+fields_of_interests:
+  - Web Development
+  - Data Science
+  - AI Agents
+  - Product Development
+technical_background:
   - MERN
   - Next.js
   - Data science applications
-strengths:
   - Building scalable applications
   - Infrastructure
   - Product thinking
-focus_areas:
-  - Web Development
-  - Data Science
-interests:
-  - Fintech
-  - Data-driven product development
+currently_learning:
+  - Cloud infrastructure
+  - Product strategy
+"2022 Goals":
+  - Build impactful end-to-end products
+  - Deepen infrastructure and systems expertise
+hobbies:
+  - Reading
+  - Tech communities
 ```
 
 ---
