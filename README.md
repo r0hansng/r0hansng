@@ -29,7 +29,7 @@ technical_background:
 currently_learning:
   - Cloud infrastructure
   - Product strategy
-"2022 Goals":
+"2026 Goals":
   - Build impactful end-to-end products
   - Deepen infrastructure and systems expertise
 hobbies:
