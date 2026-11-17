@@ -1,10 +1,12 @@
-Computer Science & AI student. Building software systems and exploring applied AI.
+Interested in backend engineering, distributed systems, databases, and applied AI.
 
-I am interested in backend engineering, distributed systems, databases and intelligent applications.
+I work with modern backend technologies and infrastructure to design, build, and understand reliable software systems.
 
-## What I work with
-- **Languages**: C++, Python, Typescript, Javascript
-- **Backend**: Node.js, NestJS, FastAPI, Express
-- **Frontend**: React, Next.js
-- **Data**: PostgreSQL, MySQL, Redis, pgvector, Prisma
-- **Infrastructure**: Docker, Linux, Git, AWS
+### Technologies
+
+- **Languages:** C++, Python, TypeScript, JavaScript
+- **Backend:** Node.js, NestJS, Express, FastAPI
+- **Frontend:** React, Next.js, React Native (Beginner)
+- **Databases:** PostgreSQL, MySQL, Redis, pgvector, MongoDB
+- **Tools & Infrastructure:** Docker, Linux, Git, AWS
+- **ORM:** Prisma, Mongoose
